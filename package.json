@@ -1,0 +1,21 @@
+{
+    "name": "books-rating-service",
+    "description": "Microservice to calculate and update the average of a book whenever a bookreview is added/updated/deleted.",
+    "version": "0.1.0",
+    "main": "app.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/NikiDeVisscher/books-rating-service.git"
+    },
+    "author": "Niki De Visscher",
+    "bugs": {
+      "url": "https://github.com/NikiDeVisscher/books-rating-service/issues"
+    },
+    "homepage": "https://github.com/NikiDeVisscher/books-rating-service#readme",
+    "type": "module",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
